@@ -1,7 +1,7 @@
 ### My GitHub History!
 
 <div align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/kochi0903">
     <img src="https://github-readme-stats.vercel.app/api?username=kochi0903&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
   </a>
   <a href="https://github.com/YOUR_USERNAME">
